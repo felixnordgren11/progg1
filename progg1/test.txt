@@ -1,0 +1,13 @@
+These lecture notes are intended for the course “Symmetry and Group Theory in Physics,”
+given in the master program in physics at Uppsala University. The course consists of three
+parts: the first part is about general group theory and the theory of representations, and
+mostly deals with finite groups. The second part deals with discrete groups and applications
+in condensed matter, atomic and molecular physics. The third part is concerned with
+continuous groups (i.e. Lie groups) and Lie algebras, and their applications in (mostly)
+nuclear and particle physics and special relativity.
+These notes are so far intended to cover the first and third parts of the course. The focus
+in the first part is on the structure of groups in general and on their representations. The
+focus of the third part is on the Lie algebras associated with Lie groups. The SU(2) and
+SU(3) groups and algebras are discussed in detail, and the Cartan–Weyl basis and Dynkin
+classification are introduced. There is also a chapter about the Lorentz and Poincare groups,
+and I briefly discuss the extension of the Poincare algebra to supersymmetry.
